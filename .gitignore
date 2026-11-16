@@ -1,0 +1,19 @@
+
+# Generated ray-tracing images
+*.ppm
+
+# Compiled programs
+/raytracer
+/raytracer_*
+/omp_test
+*.o
+
+# Personal backups
+/backups/
+/backupscp/
+
+# macOS
+.DS_Store
+
+# Also ignore generated images with extra filename suffixes
+*.ppm*
